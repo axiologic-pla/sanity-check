@@ -12,3 +12,5 @@ You can run the sanity check on a domain with the following command:
 
 ```shell
 ./checkDSU.sh <domainPath> [-f]
+or
+node checkDSU.js <domainPath> [-f]
